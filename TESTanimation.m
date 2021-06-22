@@ -25,7 +25,7 @@ hold on
 % gif creation stuff
 
 
-pathVideoAVI = 'C:\Users\Rob\Documents\Uni\YEAR 4\Project\updated m stuff\aaaaa.avi'; % filename, used later to generate mp4
+pathVideoAVI = ''; % filename, used later to generate mp4
 pathVideoMP4 = regexprep(pathVideoAVI,'\.avi','.mp4'); % generate mp4 filename
 writerObj = VideoWriter(pathVideoAVI,'Uncompressed AVI');
 open(writerObj);
