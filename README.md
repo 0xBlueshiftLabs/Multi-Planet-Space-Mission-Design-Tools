@@ -5,7 +5,7 @@
 # Multi-planet Space Mission Design Tools
 
 
-A collection of MATLAB scripts created in 2019/20 as part of my final year dissertation project whilst studying for an intergrated masters degree in aerospace engineering at the University of Nottingham, UK. 
+A collection of MATLAB scripts created in 2019/20 as part of my final year dissertation project whilst studying for an integrated masters degree in aerospace engineering at the University of Nottingham, UK. 
 
 The minimisation of fuel requirements for an interplanetary space mission can have significant impact on mission feasibility. This project aims to provide academia and early phase mission designers a set of software tools that can be used in assessing the feasibility of potential trajectory concepts. Implementation will be through MATLAB, with the main parameter of focus being ΔV – the maximum change in velocity of a rocket. Through programming, a kinematic model, taking advantage of the patched conic approximation to simply trajectory calculation, is developed. 
 
